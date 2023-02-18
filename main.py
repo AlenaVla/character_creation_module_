@@ -1,4 +1,3 @@
-# character_creation_module/main.py
 from random import randint
 
 
